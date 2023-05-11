@@ -1,19 +1,19 @@
 商品管理
 
-![image](./resImg/1 (4).png)
+![image](https://github.com/xiaoheicheng/reactDemo/blob/master/resImg/1%20(4).png)
 
-![1 (5)](E:\html\react-project\resImg\1 (5).png)
+![image](https://github.com/xiaoheicheng/reactDemo/blob/master/resImg/1%20(5).png)
 
 
 
-分类管理![1 (6)](E:\html\react-project\resImg\1 (6).png)
+分类管理![image](https://github.com/xiaoheicheng/reactDemo/blob/master/resImg/1%20(6).png)
 
 用户管理
 ![image](https://github.com/xiaoheicheng/reactDemo/blob/master/resImg/1%20(1).png)
 
 角色管理
 
-![1 (2)](E:\html\react-project\resImg\1 (2).png)
+![image](https://github.com/xiaoheicheng/reactDemo/blob/master/resImg/1%20(2).png)
 
 
 
