@@ -1,3 +1,23 @@
+商品管理
+
+![1 (3)](E:\html\react-project\resImg\1 (3).png)![1 (4)](E:\html\react-project\resImg\1 (4).png)
+
+![1 (5)](E:\html\react-project\resImg\1 (5).png)
+
+
+
+分类管理![1 (6)](E:\html\react-project\resImg\1 (6).png)
+
+用户管理<img src="E:\html\react-project\resImg\1 (1).png" alt="1 (1)" style="zoom:60%;" />
+
+角色管理
+
+![1 (2)](E:\html\react-project\resImg\1 (2).png)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
