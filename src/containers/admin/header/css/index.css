@@ -1,0 +1,52 @@
+.header {
+  height: 80px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.header .header-top {
+  border-bottom: 1px #5c941f solid;
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 10px;
+  line-height: 40px;
+}
+.header .header-top .btn {
+  margin-top: 9px;
+  margin-right: 6px;
+}
+.header .header-top .btn2 {
+  margin-top: 4px;
+}
+.header .header-bottom {
+  display: flex;
+}
+.header .header-bottom .left {
+  width: 40%;
+  line-height: 40px;
+  font-size: 21px;
+  text-align: center;
+  position: relative;
+}
+.header .header-bottom .left::after {
+  content: "";
+  border-top: 20px solid white;
+  border-right: 20px solid transparent;
+  border-bottom: 20px solid transparent;
+  border-left: 20px solid transparent;
+  position: absolute;
+  left: 50%;
+  top: 40px;
+  transform: translateX(-50%);
+}
+.header .header-bottom .right {
+  width: 60%;
+  line-height: 40px;
+  display: flex;
+  justify-content: flex-end;
+}
+.header .header-bottom .right .icon {
+  margin: 12px 10px 0 10px;
+}
+.header .header-bottom span {
+  margin-right: 24px;
+}

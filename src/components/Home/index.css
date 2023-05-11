@@ -1,0 +1,8 @@
+.shadow_wrap {
+  height: 100%;
+  text-align: center;
+}
+.shadow_wrap h1 {
+  font-size: 33px;
+  transform: translateY(500%);
+}
