@@ -1,6 +1,6 @@
 商品管理
 
-![1 (3)](./resImg/1 (4).png)
+![image](./resImg/1 (4).png)
 
 ![1 (5)](E:\html\react-project\resImg\1 (5).png)
 
