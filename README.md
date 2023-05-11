@@ -8,7 +8,7 @@
 
 分类管理![1 (6)](E:\html\react-project\resImg\1 (6).png)
 
-用户管理<img src="E:\html\react-project\resImg\1 (1).png" alt="1 (1)" style="zoom:60%;" />
+用户管理<img src="[E:\html\react-project\resImg\1 (1).png](https://github.com/xiaoheicheng/reactDemo/blob/master/resImg/1%20(1).png)" alt="1 (1)" style="zoom:60%;" />
 
 角色管理
 
